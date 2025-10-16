@@ -71,7 +71,7 @@
     "html-to-image": "^1.11.13",
     "json-schema": "^0.4.0",
     "liquidjs": "^10.16.7",
-    "mammoth": "^1.9.0",
+    "mammoth": "^1.11.0",
     "markdown-it-footnote": "^4.0.0",
     "markdown-it-link-attributes": "^4.0.1",
     "md-editor-v3": "^5.4.5",
