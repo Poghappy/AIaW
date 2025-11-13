@@ -57,7 +57,7 @@
     "@tauri-apps/plugin-window-state": "~2.2.1",
     "@vueuse/core": "^11.0.3",
     "@vueuse/rxjs": "^11.0.3",
-    "ai": "^5.0.22",
+    "ai": "^5.0.52",
     "ai-sdk-ollama": "^0.5.1",
     "capacitor-export-file": "^0.0.1",
     "capacitor-stream-fetch": "^0.0.6",
