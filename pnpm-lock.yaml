@@ -48,8 +48,8 @@ importers:
         specifier: ^7.0.1
         version: 7.0.1(@capacitor/core@7.0.1)
       '@capacitor/app':
-        specifier: ^7.0.0
-        version: 7.0.0(@capacitor/core@7.0.1)
+        specifier: ^7.1.0
+        version: 7.1.0(@capacitor/core@7.0.1)
       '@capacitor/clipboard':
         specifier: ^7.0.0
         version: 7.0.0(@capacitor/core@7.0.1)
@@ -1166,8 +1166,8 @@ packages:
     peerDependencies:
       '@capacitor/core': ^7.0.0
 
-  '@capacitor/app@7.0.0':
-    resolution: {integrity: sha512-/UFwfPFsw/Jen6vjrV0lfTBOQWSaDDdmrYXKpYg4Xn8hwj0xrrRPXxC43j7VmPoj9AFMVPA+hx94ygqjChPASQ==}
+  '@capacitor/app@7.1.0':
+    resolution: {integrity: sha512-W7m09IWrUjZbo7AKeq+rc/KyucxrJekTBg0l4QCm/yDtCejE3hebxp/W2esU26KKCzMc7H3ClkUw32E9lZkwRA==}
     peerDependencies:
       '@capacitor/core': '>=7.0.0'
 
@@ -8126,7 +8126,7 @@ snapshots:
     dependencies:
       '@capacitor/core': 7.0.1
 
-  '@capacitor/app@7.0.0(@capacitor/core@7.0.1)':
+  '@capacitor/app@7.1.0(@capacitor/core@7.0.1)':
     dependencies:
       '@capacitor/core': 7.0.1
 
