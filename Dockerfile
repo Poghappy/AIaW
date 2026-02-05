@@ -7,7 +7,7 @@ RUN apk --no-cache add --virtual .builds-deps build-base python3
 RUN npm install -g pnpm
 RUN pnpm install && pnpm build -m pwa
 
-FROM python:3.12.7-slim
+FROM python:3.14.3-slim
 WORKDIR /app
 
 COPY src-backend/ .
